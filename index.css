@@ -1,0 +1,157 @@
+
+
+#container
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 750px;
+}
+
+h1.title {
+	font-family: sans-serif;
+	font-size: 28px;
+	color: #ff9f83;
+	text-align: center;
+}
+
+h3 {
+	font-family: sans-serif;
+	font-size: 18px;
+	color: rgb(128,128,128);
+	text-align: center;
+	margin-left: 20px;
+}
+
+body {
+	padding: 2% 25% 1% 15%;
+	margin: 20px;
+
+/* Adds background image of hot air balloon as vertical bar on left side 
+	background-image: url("http://dianapechter.com/balloons1.JPG");
+	background-size: 8em 6em;
+	border-image-width: 5px;
+	background-repeat: repeat-y;
+	background-position: 2%;
+*/
+}
+
+/*
+.body-content {
+	margin:20px;
+	background-color: #effbff; 
+	padding: 20px;
+	border-radius: 3px;
+	border:4px solid #e4f7ff;
+}
+*/
+.resources-content {
+	margin:20px;
+	padding: 20px;
+	border-radius: 3px;
+	border:4px solid #e4f7ff;
+}
+
+.pull_quote{
+  margin-top:20px;
+  font-family:sans-serif;
+  text-align: left;
+  font-size: 20pt;
+}
+
+.work{
+  font-family:sans-serif;
+  margin-top:50px;
+  font-size:14pt;
+  text-align: top;
+  float:left;
+ }
+
+ .work_img{
+  float:left;
+  width: 200px;
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 80px;
+}
+
+.work_text{
+  width:750px;
+}
+
+.body_img{
+  float:left;
+  margin: 20px;
+}
+
+p {
+	font-family: sans-serif;
+	size: 26px;
+	color: #636363;
+	text-align: left;
+	margin: 10px;
+}
+
+a {
+	font-family: sans-serif;
+	size: 26px;
+	color: #636363;
+	text-align: left;
+	padding: 5px;
+	text-decoration: none;
+	/*display:flex; */
+}
+
+body a:hover {
+    color: #ff9f83;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+    display:flex;
+    border-radius: 3px;
+    float:right;
+    position: absolute;
+    top: 5px; 
+    left: 70%;
+}
+
+li a {
+	font-family: sans-serif;
+    display: block;
+    color: rgb(128,128,128);
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 3px;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    color: #ff9f83;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.content-panel-video {
+	border-radius: 10px;
+	max-width: 800px;
+	margin-left: 300px;
+	margin-bottom: 300px;
+}
+
+.dragon-cake-img {
+	float: right;
+	margin: 20px;
+	position: absolute;
+    right: 5%;
+    top: 50px;
+    border: 5px solid #ff9f83;
+    border-radius: 3px;
+}
+
+
