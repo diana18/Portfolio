@@ -98,8 +98,14 @@ body {
 
 .body_img{
   float:left;
-  margin: 20px;
+  margin: 20px 30px 30px 20px;
 }
+
+.puppy_work{
+  font-family:sans-serif;
+  margin-top:50px;
+  font-size:14pt;
+ }
 
 p {
 	font-family: sans-serif;
